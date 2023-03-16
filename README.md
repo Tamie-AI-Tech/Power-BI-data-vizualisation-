@@ -1,6 +1,7 @@
 # Power-BI-data-vizualisation-
 
 * These files have been done with Power Bi desk top to vizualise the 6 data files that have been uploaded in other repository of github
+* data analysed and the whole process are found in this link repository https://github.com/Tamie-AI-Tech/9-Data-Analysis-Projects-with-Python
 * the imbedded codes links of the power bi desktop are attached below: 
 
 ### bike dataset viz with Power BI
