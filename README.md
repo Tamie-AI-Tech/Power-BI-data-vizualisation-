@@ -33,7 +33,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNmU2Y2Q4OWUtZDE3MS00OTRhLThmZTgtODY3MTMyM
 https://app.powerbi.com/view?r=eyJrIjoiMjlhNDRjZmUtMjUxYi00ZTkyLTgzOWQtYzk0YWM0M2UzZTlkIiwidCI6IjQ0ZGJiOWQ3LTM3N2QtNDBkZS1hZGI4LTYzNTlkYWQ4MTBiZiJ9
 
 ### netflix movies data Viz with PowerBI
-https://app.powerbi.com/groups/me/reports/f72f2c77-8921-4a98-8f67-0b00542b1420/ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiNDI3NmNhYTItNzgzOC00ZTYzLTlmNzUtMDdjMDQ0YzgzNzQ2IiwidCI6IjQ0ZGJiOWQ3LTM3N2QtNDBkZS1hZGI4LTYzNTlkYWQ4MTBiZiJ9
 
 
 
